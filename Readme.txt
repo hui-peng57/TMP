@@ -1,0 +1,2 @@
+# Train Marshalling Problem (TMP)
+All the numeric instances and their optimal solutions are provided. Implementions of the branch and bound algorithm (B&B) and B&B with branching reduction heuristics based on sequencing-state measure (B&B-SSM) are provided as well. The code is written in Java, and can be executed in JDK 1.7 or later versions.
